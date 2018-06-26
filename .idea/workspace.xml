@@ -2,233 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01025634-3368-42a0-9114-9ed676c1a314" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_alphab.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_bg_pager_title_sel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_img_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_img_download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_img_line_title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_img_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_install_download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_new_tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_shuffle_center_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_shuffle_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_shuffle_refurbish.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_star_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_star_sel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_tab_shape.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_view_img_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable-hdpi-v4/mobvista_wall_white_shadow.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_back_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_bg_pager_title.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_bg_ratingbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_feed_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_shape_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_shape_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_shuffle_flush_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_shuffle_round_shape.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_shuffle_shape_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_view_download_shape_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/drawable/mobvista_wall_view_shape_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_click_loading.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_fb_mediaview.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_fragment_tablist.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_layout_handler_entry.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_loading.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_ratingbar_wall.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_retry.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/layout/mobvista_wall_shuffle_fm_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwall/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_appwallext.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_backward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_backward_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_backward_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_end_animation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_exits_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_exits_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_forward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_forward_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_forward_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_head.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_refresh_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_refresh_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable-hdpi-v4/mobvista_cm_tail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable/mobvista_cm_backward.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable/mobvista_cm_exits.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable/mobvista_cm_forward.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_common/res/drawable/mobvista_cm_refresh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/res/drawable-hdpi-v4/mobvista_interstitial_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/res/drawable/mobvista_interstitial_over.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/res/layout/mobvista_interstitial_activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_interstitial/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvdownloads/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvjscommon.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_mvnative/res/drawable/mobvista_native_bg_loading_camera.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable-hdpi-v4/mobvista_nativex_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable-hdpi-v4/mobvista_nativex_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable-hdpi-v4/mobvista_nativex_play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable-hdpi-v4/mobvista_nativex_sound_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable-hdpi-v4/mobvista_nativex_sound_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable/mobvista_nativex_cta_normal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable/mobvista_nativex_full_land_close.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable/mobvista_nativex_full_protial_close.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable/mobvista_nativex_play_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/drawable/mobvista_nativex_play_progress.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/layout/mobvista_nativex_fullscreen.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/layout/mobvista_nativex_mvmediaview.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_nativeex/res/layout/mobvista_nativex_playerview.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/mobvista_offerwall.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_backward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_backward_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_backward_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_end_animation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_exits_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_exits_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_forward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_forward_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_forward_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_head.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_refresh_nor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_refresh_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_cm_tail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_offerwall_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_offerwall_reward_sound_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_offerwall_reward_sound_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable-hdpi-v4/mobvista_offerwall_warn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_cm_backward.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_cm_exits.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_cm_forward.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_cm_refresh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_offerwall_close_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_offerwall_reward_dialog_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_offerwall_shape_left_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_offerwall_shape_progress.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/drawable/mobvista_offerwall_shape_right_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/layout/mobvista_offerwall_activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/layout/mobvista_offerwall_reward_activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/layout/mobvista_offerwall_reward_exit_dialog.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_offerwall/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_playercommon/res/layout/mobvista_playercommon_player_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_activity_ad_end_land_des_rl_hot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_end_land_shape.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_end_pager_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_end_rotation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_sound_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_sound_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_vast_end_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable-hdpi-v4/mobvista_reward_vast_end_ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_end_close_shape_oval.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_end_shape_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_end_shape_oval.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_shape_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_shape_end_pager.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/drawable/mobvista_reward_shape_progress.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/layout/mobvista_reward_activity_ad_end_hor.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/layout/mobvista_reward_activity_ad_end_land.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/layout/mobvista_reward_activity_ad_vast_end.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/layout/mobvista_reward_activity_mvrewardvideo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_reward/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/res/drawable-hdpi-v4/mobvista_video_common_full_star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/res/drawable-hdpi-v4/mobvista_video_common_full_while_star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videocommon/res/drawable-hdpi-v4/mobvista_video_common_half_star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/libs/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable-hdpi-v4/mobvista_feeds_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable-hdpi-v4/mobvista_feeds_play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable-hdpi-v4/mobvista_feeds_sound_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable-hdpi-v4/mobvista_feeds_sound_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable/mobvista_feeds_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable/mobvista_feeds_cta_atv_btn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable/mobvista_feeds_cta_normal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable/mobvista_feeds_cta_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/drawable/mobvista_feeds_play_progress.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/layout/mobvista_feeds_activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/layout/mobvista_feeds_ad_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/layout/mobvista_feeds_player_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/mobvista_videofeeds/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVCampaign.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVFrame.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVInterstitialAdManager.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVMediaView.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVNativeAdManager.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVNativeScrollView.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVRewardAdInfo.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVRewardAdManager.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVSDK.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/Headers/MVTemplate.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/MVSDK.framework/MVSDK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDMobvistaAdapter.embeddedframework/libAPDMobvistaAdapter.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/adcolony-sdk-3.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/arm64-v8a/libadcolony.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/arm64-v8a/libjs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/armeabi-v7a/libadcolony.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/armeabi-v7a/libjs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/armeabi/libadcolony.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/armeabi/libjs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/x86/libadcolony.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/x86/libjs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/x86_64/libadcolony.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/libs/x86_64/libjs.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Android/adcolony/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/AdColony" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColony.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyAdOptions.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyAdRequestError.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyAppOptions.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyEventTracker.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyInterstitial.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyNativeAdView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyOptions.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyTypes.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyUserMetadata.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/AdColony.framework/Headers/AdColonyZone.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/iOS/Adapters/APDAdColonyAdapter.embeddedframework/libAPDAdColonyAdapter.a" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.xml" afterPath="$PROJECT_DIR$/plugin.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -243,21 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libs/Android/adcolony/build.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="363" column="7" lean-forward="false" selection-start-line="363" selection-start-column="7" selection-end-line="363" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -269,6 +62,7 @@
     <findStrings>
       <find>MOB</find>
       <find>MOBV</find>
+      <find>adco</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -368,17 +162,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530023778678</updated>
-      <workItem from="1530023780092" duration="339000" />
+      <workItem from="1530023780092" duration="1659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339000" />
+    <option name="totallyTimeSpent" value="1659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2037485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13724305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -407,18 +202,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugin.xml">
+    <entry file="file://$PROJECT_DIR$/libs/Android/adcolony/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="363" column="7" lean-forward="false" selection-start-line="363" selection-start-column="7" selection-end-line="363" selection-end-column="7" />
+        <state relative-caret-position="361">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/Android/adcolony/build.xml">
+    <entry file="file://$PROJECT_DIR$/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="272">
+          <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
           <folding />
         </state>
       </provider>
